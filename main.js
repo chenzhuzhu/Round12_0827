@@ -60,3 +60,9 @@ function main(num){
 let toAns=26
 console.log(toAns)
 main(toAns)
+toAns=27
+console.log(toAns)
+main(toAns)
+toAns=564534
+console.log(toAns)
+main(toAns)
